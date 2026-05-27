@@ -1,0 +1,3 @@
+2026-04-01 11:39:52,544 [WARNING] 未检测到 pdfplumber，无法处理 PDF。请 pip install pdfplumber。
+2026-04-01 11:39:52,545 [WARNING] 未检测到 jieba，姓名分词优化将关闭。可 pip install jieba。
+2026-04-01 11:39:52,545 [WARNING] 未检测到 LAC，NER 姓名识别将关闭。可 pip install lac。
